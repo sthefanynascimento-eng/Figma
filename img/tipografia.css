@@ -1,0 +1,47 @@
+.text-preset1{
+    font-size: 46px;
+    line-height: 125%;
+    letter-spacing: -0.75px;
+    font-weight: 600;
+}
+
+.text-preset2{
+    font-size: 36px;
+    line-height: 125%;
+    letter-spacing: -0.6px;
+    font-weight: 600;
+}
+
+.text-preset3{
+    font-size: 32px;
+    line-height: 125%;
+    letter-spacing: -0.5px;
+    font-weight: 600;
+}
+
+.text-preset4{
+    font-size: 28px;
+    line-height: 125%;
+    letter-spacing: -0.45px;
+    font-weight: 600;
+}  
+
+.text-preset5{
+    font-size: 24px;
+    line-height: 125%;
+    letter-spacing: -0.4px;
+    font-weight: 600;
+}
+.text-preset6{
+    font-size: 20px;
+    line-height: 125%;
+    letter-spacing: -0.35px;
+    font-weight: 600;
+}
+
+
+.text-preset7{
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+}
